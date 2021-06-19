@@ -39,4 +39,7 @@ $ catkin_make
 *** Gazebo ***
 $ roslaunch moveit_pkg demo_gazebo.launch
 
+
+**** NOTE: Use RAW to view the original text lines ***
+
  
